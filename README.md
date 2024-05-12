@@ -1,4 +1,4 @@
-## Olá, sou aluno técnico em desenvolvimento web, banco de dados e aplicações
+## Olá, sou aluno técnico em desenvolvimento web, banco de dados e aplicações 😀
 
  <div>
    <a href="https://github.com/LukasMatoss">
