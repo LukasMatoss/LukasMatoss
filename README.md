@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Olá, sou aluno técnico em desenvolvimento web, banco de dados e aplicações
 
  <div>
    <a href="https://github.com/LukasMatoss">
